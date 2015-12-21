@@ -1,0 +1,24 @@
+html, body{
+    background-color: #FFD54F;  /*   Amber 300  */
+}
+.title{
+    font: 500% 'Sofia', cursive;
+    width: 100%;
+    text-align: center;
+    color: #A1887F;
+}
+.cup{
+    margin-top: 10%;
+}
+.italiano_espresso{
+    width:50%;
+    align-content: center;
+    float: left;
+    text-align: center;
+}
+.american_express{
+    width:50%;
+    align-items: center;
+    float: right;
+    text-align: center;
+}
